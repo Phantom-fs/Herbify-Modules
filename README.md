@@ -53,7 +53,7 @@ Jupyter notebooks for combining predictions from multiple models to improve clas
 - MobileNet v3 Large + VGG19 + EfficientNet v2 Large + ViT-L/16
 - VGG19 + ResNet152 + EfficientNet v2 Large + ViT-L/16
 
-- Multi-model ensembles (e.g., ResNet, EfficientNet, VGG19, ViT)
+Multi-model ensembles (e.g., ResNet, EfficientNet, VGG19, ViT)
 
 ---
 
